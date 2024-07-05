@@ -1,8 +1,19 @@
+- [Getting Started](#getting-started)
+- [GitHub Repository](#github-repository)
+  - [Creating a GitHub Repository](#creating-a-github-repository)
+  - [Adding documents/files to a repository (business)](#adding-documentsfiles-to-a-repository-business)
+  - [Cloning and pushing to a repository (tech)](#cloning-and-pushing-to-a-repository-tech)
+- [Repository Setup](#repository-setup)
+  - [Repository Structure](#repository-structure)
+  - [Repository README](#repository-readme)
+
 # Getting Started
 
-## Purpose
-
 The purpose of this repository is to explain how to create a repository that will be used to submit your application deliverables for the Battle of the Brains contest.
+
+# GitHub Repository
+
+Github will be used to work on and deliver your application and related documentation.
 
 ## Creating a GitHub Repository
 
@@ -57,7 +68,9 @@ The purpose of this repository is to explain how to create a repository that wil
 
 - At this point, you should be able to follow the regular `git add`, `git commit`, and `git push` workflow
 
-## Suggested Repository Structure
+# Repository Setup
+
+## Repository Structure
 
 Below is a suggested structure for your repository to help organize your deliverables.
 
